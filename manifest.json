@@ -1,11 +1,11 @@
 {
-    "name": "clein_portfolio",
-    "short_name": "clein_portfolio",
+    "name": "c 7 e i n",
+    "short_name": "c 7 e i n",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Clein Winslee Duquez profile",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
