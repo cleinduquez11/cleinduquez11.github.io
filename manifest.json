@@ -1,10 +1,9 @@
 {
-    "name": "c 7 ei n",
-    "short_name": "c 7 ei n",
+    "name": "c 7 e i n",
+    "short_name": "c 7 e i n",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#FFFFFF",
     "description": "Clein's portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
