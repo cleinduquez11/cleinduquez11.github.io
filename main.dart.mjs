@@ -5183,7 +5183,7 @@ class CompiledApp {
 "one little moment reserved for you",
 "SEALED LETTER • ",
 "open slowly ♡",
-"one photo.\none small reminder.",
+"one photo. one small reminder.",
 "POSTCARD • ",
 "a photo + a little note are waiting inside",
 "ADMIT ONE • ",
